@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Blsky Chess</string>
+    <string name="fetch_games">Fetch Games</string>
+    <string name="start_practice">Start Practice</string>
+    <string name="view_puzzles">View All Puzzles</string>
+</resources>

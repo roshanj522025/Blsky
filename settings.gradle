@@ -1,0 +1,2 @@
+rootProject.name = "Blsky"
+include ':app'

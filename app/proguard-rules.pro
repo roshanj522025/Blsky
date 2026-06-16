@@ -1,0 +1,6 @@
+-keep class com.blsky.chess.data.** { *; }
+-keep class com.blsky.chess.engine.** { *; }
+-keepattributes Signature
+-keepattributes *Annotation*
+-dontwarn okhttp3.**
+-dontwarn retrofit2.**
